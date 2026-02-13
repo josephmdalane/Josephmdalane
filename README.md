@@ -1,16 +1,68 @@
 ## Hi there 👋
 
-<!--
-**josephmdalane/Josephmdalane** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# Joseph Dalane
 
-Here are some ideas to get you started:
+Aspiring Infrastructure and Network Engineer with hands-on experience building virtualized enterprise environments using Proxmox VE, Active Directory, pfSense, and VLAN segmentation.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Focused on developing practical skills in identity services, network infrastructure, virtualization, and data center operations.
+
+---
+
+## Featured Project
+
+### Virtualized Active Directory Infrastructure on Proxmox VE
+
+Designed and deployed a segmented enterprise identity environment featuring:
+
+- Proxmox VE Type-1 hypervisor
+- Active Directory Domain Services with redundant domain controllers
+- pfSense firewall with VLAN segmentation and DHCP relay
+- DNS, DHCP, and Group Policy deployment
+- Authentication failover validation during domain controller outage
+- Infrastructure monitoring automation
+
+View project:  
+https://github.com/josephmdalane/virtualized-active-directory-infrastructure
+
+---
+
+## Core Skills
+
+Infrastructure & Virtualization  
+- Proxmox VE  
+- Virtual machine deployment and management  
+- Network segmentation  
+
+Identity & Systems  
+- Active Directory  
+- DNS  
+- DHCP  
+- Group Policy  
+
+Networking  
+- VLANs  
+- pfSense firewall configuration  
+- NAT and network isolation  
+
+Infrastructure Operations  
+- System monitoring  
+- Troubleshooting and validation  
+- Failover testing  
+
+---
+
+## Current Focus
+
+Building hands-on infrastructure labs focused on:
+
+- Virtualization
+- Identity services
+- Network infrastructure
+- Data center operations
+
+---
+
+## Career Objective
+
+Seeking entry-level Infrastructure, Data Center, or Network Engineering roles where I can apply hands-on lab experience and continue developing real-world infrastructure skills.
+
