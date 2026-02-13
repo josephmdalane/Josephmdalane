@@ -23,6 +23,8 @@ Designed and deployed a segmented enterprise identity environment featuring:
 
 View project:  
 https://github.com/josephmdalane/virtualized-active-directory-infrastructure
+![Network Topology](https://github.com/josephmdalane/virtualized-active-directory-infrastructure/blob/main/diagrams/network-topology.png)
+
 
 ---
 
